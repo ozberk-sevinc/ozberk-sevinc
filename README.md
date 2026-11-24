@@ -30,9 +30,10 @@ At **OtrantoConnect**, I lead the technical direction of a CRM for education con
 
 ### Research & experiments
 
-- **Formula 1 lap-time analysis** — Co-authored an analysis of roughly **60,000 laps** across wet and dry conditions, comparing Random Forest, LightGBM, and polynomial regression; used SHAP to interpret model behaviour.
-- **Chess from images** — Co-developed a vision pipeline using two YOLOv11-nano models for board corners and pieces, with a reported **94% test-set mAP**; used OpenCV homography to map detections to an 8×8 board.
+- **[Formula 1 lap-time analysis](https://github.com/2T1F/f1-analysis)** — Co-authored an analysis of roughly **60,000 laps** across wet and dry conditions, comparing Random Forest, LightGBM, and polynomial regression; used SHAP to interpret model behaviour.
+- **[Chess from images](https://github.com/2T1F/photochess)** — Co-developed a vision pipeline using two YOLOv11-nano models for board corners and pieces, with a reported **94% test-set mAP**; used OpenCV homography to map detections to an 8×8 board.
 - **FOMC communication & NASDAQ volatility** — My bachelor thesis uses transformer-based NLP and one-minute event-window data to examine whether central-bank communication improves intraday volatility prediction.
+- **[Wine quality analysis](https://github.com/2T1F/wine)** — Used statistical modelling and data visualisation to explore the relationship between wine quality and alcohol content.
 
 ### Tools I reach for
 
